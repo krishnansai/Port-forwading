@@ -1,5 +1,5 @@
 # Port-forwading
-This tool is help us to create a server and port forwarding it and tansfer the file to one system to another system easyly with out any software
+This tool is help us to create a server and port forwarding it and tansfer the file to one system to another system easyly with out any software.
 we can connect the fort end and backend with easy using this tool
 
 we can run with terminal
@@ -37,6 +37,6 @@ enter the same port numer
 
 we can genrate the .io link to forwarding the link
 
-I will upload the video on this 
+I will upload the video on this soon...
 
 
