@@ -1,5 +1,5 @@
 # Port-forwading
-This tool is help us to create a server and port forwarding it
+This tool is help us to create a server and port forwarding it and tansfer the file to one system to another system easyly
 
 we can run with terminal
 
