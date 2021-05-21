@@ -13,14 +13,14 @@ We can enter the same port number to connect with port forwarding to so we can g
 it will activate for the 2 hours 
 
 
-Comments to run the tool
+*****Comments to run the tool*******
 
 Linux
 
-*sudo apt-get install python3
+***sudo apt-get install python3***
 
 
-*python3 first.py
+***python3 first.py***
 
 
 Enter the port number
@@ -29,7 +29,7 @@ Enter the port number
 press(ctrl+shift+t)
 
 
-*python3 sec.py
+***python3 sec.py***
 
 
 enter the same port numer
