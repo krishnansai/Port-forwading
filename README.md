@@ -4,6 +4,13 @@ we can connect the fort end and backend with easy using this tool
 
 we can run with terminal
 
+
+How to use the tool Youtube...
+
+https://youtu.be/KGy_6_tHvi8
+
+
+
 To select the folder to to run the server like python3 to make it local server we can choose the port number with the our wish
 
 After that open the new terminal to to run the secound script it will automate the ngrok to unzip and move to his location for automate
@@ -37,6 +44,5 @@ enter the same port numer
 
 we can genrate the .io link to forwarding the link
 
-I will upload the video on this soon...
 
 
